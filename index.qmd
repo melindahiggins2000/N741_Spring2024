@@ -1,11 +1,23 @@
 ---
-title: "N741_Spring2024"
+title: "NRSG 741 - Spring2024"
+subtitle: "Big Data Analytics for Healthcare"
 ---
 
-This is a Quarto website.
+# This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
 ```{r}
 1 + 1
 ```
+
+## subsection 2
+
+some stuff here
+
+# new section
+
+## subsection 2
+
+more stuff here part 2
+

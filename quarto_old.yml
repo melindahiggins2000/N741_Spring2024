@@ -5,14 +5,15 @@ website:
   page-navigation: true
   title: "NRSG 741 - Spring2024"
   description: "Emory Nursing 741 - Big Data Analytics for Healthcare"
-
-  page-footer:
-    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
-    left: "&copy; Copyright 2024, [Melinda Higgins, PhD](https://melindahiggins.netlify.app/)"
-    background: "#b0b8f7"
-
+  
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      
   sidebar:   
-    background: "#b0b8f7"
+    background: "#78fa9b"
     logo: "images/n741_hex4.png"
     pinned: true
     align: center
@@ -22,16 +23,8 @@ website:
         text: "Github"
         
     style: "docked"
-    search: true
-    collapse-level: 1
     contents: 
       - section: "Course Info"
-        contents: 
-          - href: index.qmd
-            text: Home
-          - href: about.qmd
-            text: About
-      - section: "Project"
         contents: 
           - href: index.qmd
             text: Home
@@ -40,10 +33,7 @@ website:
 
 format:
   html:
-    theme: 
-      light: [cosmo]
-      dark: [cosmo, theme-dark.scss]
-    mainfont: "Montserrat"  
+    theme: cosmo
     css: styles.css
     toc: true
 

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "NRSG 741 - Spring2024",
+    "section": "",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\n\nsome stuff here"
+  },
+  {
+    "objectID": "index.html#subsection-2",
+    "href": "index.html#subsection-2",
+    "title": "NRSG 741 - Spring2024",
+    "section": "",
+    "text": "some stuff here"
+  },
+  {
+    "objectID": "index.html#subsection-2-1",
+    "href": "index.html#subsection-2-1",
+    "title": "NRSG 741 - Spring2024",
+    "section": "subsection 2",
+    "text": "subsection 2\nmore stuff here part 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
